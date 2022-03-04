@@ -1,8 +1,13 @@
-### Hi there 👋
+# 张鹏
+
+😄 Meet a better version of yourself every day.
 
 ![](https://komarev.com/ghpvc/?username=gh-zhangpeng)
 
-😄 Meet a better version of yourself every day
+## Hi there 👋
+
+![](https://img.zhangpeng.site/wechat/qrcode.jpg)
+
 
 <!-- [![zhangpeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-zhangpeng&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
